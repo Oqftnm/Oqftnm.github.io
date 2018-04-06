@@ -1,7 +1,7 @@
 # Site settings
 title: Hux Blog
 SEOTitle: Oqftnm | Hux Blog
-#header-img: img/home-bg.jpg
+header-img: img/home-bg.jpg
 email: 1693917780@@qq.com
 description: "学习语言"
 keyword: "Learn, Learn, Hux, 鬼栈, huxpro, @huxpro, Learn, Hux Blog, 博客, 个人网站, 互联网, Japanese, English, 前端, 设计"
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "学习语言"
-#sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
