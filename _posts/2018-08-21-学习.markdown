@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "养家之人"
+subtitle:   "Hello World, Hello Blog"
+date:       2018-04-07 11:20:00
+author:     "Hux"
+tags:
+    - LEARNING
+---
+## 测试
+[www](https://pan.baidu.com/s/1sGTOCDw5IYtt9WAj3GS0CQ)
